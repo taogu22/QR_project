@@ -1,0 +1,384 @@
+(('0', '0'), ('0', '0'), ('0', '0'), ('0', '0'), ('0', '0')) -> (('0', '+'), ('0', '0'), ('0', '0'), ('0', '0'), ('0', '0'))
+Inflow did not change
+Inflow starts to increase
+Volume did not change
+Volume keeps stable
+Outflow did not change
+Outflow keeps stable
+Height did not change
+Height keeps stable
+Pressure did not change
+Pressure keeps stable
+
+(('0', '+'), ('0', '0'), ('0', '0'), ('0', '0'), ('0', '0')) -> (('+', '+'), ('0', '+'), ('0', '+'), ('0', '+'), ('0', '+'))
+Inflow grows from zero to positive
+Inflow keeps increasing
+Volume did not change
+Volume starts to increase
+Outflow did not change
+Outflow starts to increase
+Height did not change
+Height starts to increase
+Pressure did not change
+Pressure starts to increase
+
+(('+', '+'), ('0', '+'), ('0', '+'), ('0', '+'), ('0', '+')) -> (('+', '+'), ('+', '+'), ('+', '+'), ('+', '+'), ('+', '+'))
+Inflow is positive
+Inflow keeps increasing
+Volume grows from zero to positive
+Volume keeps increasing
+Outflow grows from zero to positive
+Outflow keeps increasing
+Height grows from zero to positive
+Height keeps increasing
+Pressure grows from zero to positive
+Pressure keeps increasing
+
+(('+', '+'), ('+', '+'), ('+', '+'), ('+', '+'), ('+', '+')) -> (('+', '0'), ('+', '+'), ('+', '+'), ('+', '+'), ('+', '+'))
+Inflow is positive
+Inflow does not increase anymore
+Volume is positive
+Volume keeps increasing
+Outflow is positive
+Outflow keeps increasing
+Height is positive
+Height keeps increasing
+Pressure is positive
+Pressure keeps increasing
+
+(('+', '+'), ('+', '+'), ('+', '+'), ('+', '+'), ('+', '+')) -> (('+', '0'), ('max', '0'), ('max', '0'), ('max', '0'), ('max', '0'))
+Inflow is positive
+Inflow does not increase anymore
+Volume reaches the maximum
+Volume does not increase anymore
+Outflow reaches the maximum
+Outflow does not increase anymore
+Height reaches the maximum
+Height does not increase anymore
+Pressure reaches the maximum
+Pressure does not increase anymore
+
+(('+', '+'), ('+', '+'), ('+', '+'), ('+', '+'), ('+', '+')) -> (('+', '0'), ('+', '0'), ('+', '0'), ('+', '0'), ('+', '0'))
+Inflow is positive
+Inflow does not increase anymore
+Volume is positive
+Volume does not increase anymore
+Outflow is positive
+Outflow does not increase anymore
+Height is positive
+Height does not increase anymore
+Pressure is positive
+Pressure does not increase anymore
+
+(('+', '0'), ('+', '0'), ('+', '0'), ('+', '0'), ('+', '0')) -> (('+', '-'), ('+', '0'), ('+', '0'), ('+', '0'), ('+', '0'))
+Inflow is positive
+Inflow starts to decrease
+Volume is positive
+Volume keeps stable
+Outflow is positive
+Outflow keeps stable
+Height is positive
+Height keeps stable
+Pressure is positive
+Pressure keeps stable
+
+(('+', '0'), ('+', '0'), ('+', '0'), ('+', '0'), ('+', '0')) -> (('+', '+'), ('+', '0'), ('+', '0'), ('+', '0'), ('+', '0'))
+Inflow is positive
+Inflow starts to increase
+Volume is positive
+Volume keeps stable
+Outflow is positive
+Outflow keeps stable
+Height is positive
+Height keeps stable
+Pressure is positive
+Pressure keeps stable
+
+(('+', '0'), ('max', '0'), ('max', '0'), ('max', '0'), ('max', '0')) -> (('+', '-'), ('max', '0'), ('max', '0'), ('max', '0'), ('max', '0'))
+Inflow is positive
+Inflow starts to decrease
+Volume keeps stable
+Outflow keeps stable
+Height keeps stable
+Pressure keeps stable
+
+(('+', '0'), ('max', '0'), ('max', '0'), ('max', '0'), ('max', '0')) -> (('+', '+'), ('max', '0'), ('max', '0'), ('max', '0'), ('max', '0'))
+Inflow is positive
+Inflow starts to increase
+Volume keeps stable
+Outflow keeps stable
+Height keeps stable
+Pressure keeps stable
+
+(('+', '0'), ('+', '+'), ('+', '+'), ('+', '+'), ('+', '+')) -> (('+', '-'), ('max', '0'), ('max', '0'), ('max', '0'), ('max', '0'))
+Inflow is positive
+Inflow starts to decrease
+Volume reaches the maximum
+Volume does not increase anymore
+Outflow reaches the maximum
+Outflow does not increase anymore
+Height reaches the maximum
+Height does not increase anymore
+Pressure reaches the maximum
+Pressure does not increase anymore
+
+(('+', '0'), ('+', '+'), ('+', '+'), ('+', '+'), ('+', '+')) -> (('+', '-'), ('+', '0'), ('+', '0'), ('+', '0'), ('+', '0'))
+Inflow is positive
+Inflow starts to decrease
+Volume is positive
+Volume does not increase anymore
+Outflow is positive
+Outflow does not increase anymore
+Height is positive
+Height does not increase anymore
+Pressure is positive
+Pressure does not increase anymore
+
+(('+', '0'), ('+', '+'), ('+', '+'), ('+', '+'), ('+', '+')) -> (('+', '+'), ('+', '+'), ('+', '+'), ('+', '+'), ('+', '+'))
+Inflow is positive
+Inflow starts to increase
+Volume is positive
+Volume keeps increasing
+Outflow is positive
+Outflow keeps increasing
+Height is positive
+Height keeps increasing
+Pressure is positive
+Pressure keeps increasing
+
+(('+', '0'), ('+', '+'), ('+', '+'), ('+', '+'), ('+', '+')) -> (('+', '0'), ('+', '0'), ('+', '0'), ('+', '0'), ('+', '0'))
+Inflow is positive
+Inflow keeps stable
+Volume is positive
+Volume does not increase anymore
+Outflow is positive
+Outflow does not increase anymore
+Height is positive
+Height does not increase anymore
+Pressure is positive
+Pressure does not increase anymore
+
+(('+', '0'), ('+', '+'), ('+', '+'), ('+', '+'), ('+', '+')) -> (('+', '-'), ('+', '+'), ('+', '+'), ('+', '+'), ('+', '+'))
+Inflow is positive
+Inflow starts to decrease
+Volume is positive
+Volume keeps increasing
+Outflow is positive
+Outflow keeps increasing
+Height is positive
+Height keeps increasing
+Pressure is positive
+Pressure keeps increasing
+
+(('+', '0'), ('+', '+'), ('+', '+'), ('+', '+'), ('+', '+')) -> (('+', '0'), ('max', '0'), ('max', '0'), ('max', '0'), ('max', '0'))
+Inflow is positive
+Inflow keeps stable
+Volume reaches the maximum
+Volume does not increase anymore
+Outflow reaches the maximum
+Outflow does not increase anymore
+Height reaches the maximum
+Height does not increase anymore
+Pressure reaches the maximum
+Pressure does not increase anymore
+
+(('+', '-'), ('+', '0'), ('+', '0'), ('+', '0'), ('+', '0')) -> (('+', '-'), ('+', '-'), ('+', '-'), ('+', '-'), ('+', '-'))
+Inflow is positive
+Inflow keeps decreasing
+Volume is positive
+Volume starts to decrease
+Outflow is positive
+Outflow starts to decrease
+Height is positive
+Height starts to decrease
+Pressure is positive
+Pressure starts to decrease
+
+(('+', '+'), ('+', '0'), ('+', '0'), ('+', '0'), ('+', '0')) -> (('+', '+'), ('+', '+'), ('+', '+'), ('+', '+'), ('+', '+'))
+Inflow is positive
+Inflow keeps increasing
+Volume is positive
+Volume starts to increase
+Outflow is positive
+Outflow starts to increase
+Height is positive
+Height starts to increase
+Pressure is positive
+Pressure starts to increase
+
+(('+', '-'), ('max', '0'), ('max', '0'), ('max', '0'), ('max', '0')) -> (('+', '-'), ('max', '-'), ('max', '-'), ('max', '-'), ('max', '-'))
+Inflow is positive
+Inflow keeps decreasing
+Volume starts to decrease
+Outflow starts to decrease
+Height starts to decrease
+Pressure starts to decrease
+
+(('+', '-'), ('+', '-'), ('+', '-'), ('+', '-'), ('+', '-')) -> (('0', '0'), ('+', '-'), ('+', '-'), ('+', '-'), ('+', '-'))
+Inflow decreases to zero
+Inflow does not decrease anymore
+Volume is positive
+Volume keeps decreasing
+Outflow is positive
+Outflow keeps decreasing
+Height is positive
+Height keeps decreasing
+Pressure is positive
+Pressure keeps decreasing
+
+(('+', '-'), ('+', '-'), ('+', '-'), ('+', '-'), ('+', '-')) -> (('0', '0'), ('0', '0'), ('0', '0'), ('0', '0'), ('0', '0'))
+Inflow decreases to zero
+Inflow does not decrease anymore
+Volume decreases to zero
+Volume does not decrease anymore
+Outflow decreases to zero
+Outflow does not decrease anymore
+Height decreases to zero
+Height does not decrease anymore
+Pressure decreases to zero
+Pressure does not decrease anymore
+
+(('+', '-'), ('+', '-'), ('+', '-'), ('+', '-'), ('+', '-')) -> (('+', '0'), ('+', '0'), ('+', '0'), ('+', '0'), ('+', '0'))
+Inflow is positive
+Inflow does not decrease anymore
+Volume is positive
+Volume does not decrease anymore
+Outflow is positive
+Outflow does not decrease anymore
+Height is positive
+Height does not decrease anymore
+Pressure is positive
+Pressure does not decrease anymore
+
+(('+', '-'), ('max', '-'), ('max', '-'), ('max', '-'), ('max', '-')) -> (('+', '-'), ('+', '-'), ('+', '-'), ('+', '-'), ('+', '-'))
+Inflow is positive
+Inflow keeps decreasing
+Volume decreases from maximum to some positive value
+Volume keeps decreasing
+Outflow decreases from maximum to some positive value
+Outflow keeps decreasing
+Height decreases from maximum to some positive value
+Height keeps decreasing
+Pressure decreases from maximum to some positive value
+Pressure keeps decreasing
+
+(('0', '0'), ('+', '-'), ('+', '-'), ('+', '-'), ('+', '-')) -> (('0', '0'), ('0', '0'), ('0', '0'), ('0', '0'), ('0', '0'))
+Inflow did not change
+Inflow keeps stable
+Volume decreases to zero
+Volume does not decrease anymore
+Outflow decreases to zero
+Outflow does not decrease anymore
+Height decreases to zero
+Height does not decrease anymore
+Pressure decreases to zero
+Pressure does not decrease anymore
+
+(('0', '0'), ('+', '-'), ('+', '-'), ('+', '-'), ('+', '-')) -> (('0', '+'), ('0', '0'), ('0', '0'), ('0', '0'), ('0', '0'))
+Inflow did not change
+Inflow starts to increase
+Volume decreases to zero
+Volume does not decrease anymore
+Outflow decreases to zero
+Outflow does not decrease anymore
+Height decreases to zero
+Height does not decrease anymore
+Pressure decreases to zero
+Pressure does not decrease anymore
+
+(('0', '0'), ('+', '-'), ('+', '-'), ('+', '-'), ('+', '-')) -> (('0', '+'), ('+', '-'), ('+', '-'), ('+', '-'), ('+', '-'))
+Inflow did not change
+Inflow starts to increase
+Volume is positive
+Volume keeps decreasing
+Outflow is positive
+Outflow keeps decreasing
+Height is positive
+Height keeps decreasing
+Pressure is positive
+Pressure keeps decreasing
+
+(('0', '+'), ('+', '-'), ('+', '-'), ('+', '-'), ('+', '-')) -> (('+', '+'), ('+', '-'), ('+', '-'), ('+', '-'), ('+', '-'))
+Inflow grows from zero to positive
+Inflow keeps increasing
+Volume is positive
+Volume keeps decreasing
+Outflow is positive
+Outflow keeps decreasing
+Height is positive
+Height keeps decreasing
+Pressure is positive
+Pressure keeps decreasing
+
+(('+', '+'), ('+', '-'), ('+', '-'), ('+', '-'), ('+', '-')) -> (('+', '0'), ('+', '-'), ('+', '-'), ('+', '-'), ('+', '-'))
+Inflow is positive
+Inflow does not increase anymore
+Volume is positive
+Volume keeps decreasing
+Outflow is positive
+Outflow keeps decreasing
+Height is positive
+Height keeps decreasing
+Pressure is positive
+Pressure keeps decreasing
+
+(('+', '+'), ('+', '-'), ('+', '-'), ('+', '-'), ('+', '-')) -> (('+', '0'), ('+', '0'), ('+', '0'), ('+', '0'), ('+', '0'))
+Inflow is positive
+Inflow does not increase anymore
+Volume is positive
+Volume does not decrease anymore
+Outflow is positive
+Outflow does not decrease anymore
+Height is positive
+Height does not decrease anymore
+Pressure is positive
+Pressure does not decrease anymore
+
+(('+', '+'), ('+', '-'), ('+', '-'), ('+', '-'), ('+', '-')) -> (('+', '+'), ('+', '0'), ('+', '0'), ('+', '0'), ('+', '0'))
+Inflow is positive
+Inflow keeps increasing
+Volume is positive
+Volume does not decrease anymore
+Outflow is positive
+Outflow does not decrease anymore
+Height is positive
+Height does not decrease anymore
+Pressure is positive
+Pressure does not decrease anymore
+
+(('+', '0'), ('+', '-'), ('+', '-'), ('+', '-'), ('+', '-')) -> (('+', '+'), ('+', '0'), ('+', '0'), ('+', '0'), ('+', '0'))
+Inflow is positive
+Inflow starts to increase
+Volume is positive
+Volume does not decrease anymore
+Outflow is positive
+Outflow does not decrease anymore
+Height is positive
+Height does not decrease anymore
+Pressure is positive
+Pressure does not decrease anymore
+
+(('+', '0'), ('+', '-'), ('+', '-'), ('+', '-'), ('+', '-')) -> (('+', '+'), ('+', '-'), ('+', '-'), ('+', '-'), ('+', '-'))
+Inflow is positive
+Inflow starts to increase
+Volume is positive
+Volume keeps decreasing
+Outflow is positive
+Outflow keeps decreasing
+Height is positive
+Height keeps decreasing
+Pressure is positive
+Pressure keeps decreasing
+
+(('+', '0'), ('+', '-'), ('+', '-'), ('+', '-'), ('+', '-')) -> (('+', '0'), ('+', '0'), ('+', '0'), ('+', '0'), ('+', '0'))
+Inflow is positive
+Inflow keeps stable
+Volume is positive
+Volume does not decrease anymore
+Outflow is positive
+Outflow does not decrease anymore
+Height is positive
+Height does not decrease anymore
+Pressure is positive
+Pressure does not decrease anymore
+
